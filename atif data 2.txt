@@ -1,0 +1,32 @@
+_hjid	7156008d-be79-45af-adb0-382830c48405	.jazz.com.pk	/	Session	41				Medium	
+exp_tracker	%7B%220%22%3A%22Home%2Fbundle_template%22%2C%221%22%3A%22self-service%22%2C%222%22%3A%22Home%2Fbundle_template%22%2C%223%22%3A%22self-service%22%2C%224%22%3A%22Home%2Fbundle_template%22%2C%22token%22%3A%22aac849d325f98b25386bb96000515e2e752093b449add4e4ab657e2fa646bfd74b260b107b7c61d49dee2dee4e43ddb8%22%7D	.jazz.com.pk	/	Session	318	?	?		Medium	
+_hjAbsoluteSessionInProgress	1	.jazz.com.pk	/	2020-06-11T18:48:28.000Z	29				Medium	
+exp_csrf_token	f4dc2301fc33bfffb6dea54d2b444ac25ea966db	.jazz.com.pk	/	2020-06-11T20:21:14.422Z	54	?	?		Medium	
+UULE	a+cm9sZToxIHByb2R1Y2VyOjEyIHByb3ZlbmFuY2U6NiB0aW1lc3RhbXA6MTU5MTg5OTUwNDIxNzAwMCBsYXRsbmd7bGF0aXR1ZGVfZTc6MzM2OTA4MTU1IGxvbmdpdHVkZV9lNzo3MzA1MzQzODJ9IHJhZGl1czoxNDI2MA==	www.google.com	/	2020-06-12T18:18:24.000Z	174				Medium	
+_gid	GA1.3.507424632.1591776154	.jazz.com.pk	/	2020-06-12T18:21:08.000Z	30				Medium	
+DSID	AAO-7r6VhzO-sWxhIbFvwsud4kFJScXIgCZMB08Y1-6aGpr3L3WiP7TsZN2nEZcUkdJif6MHnI-SxafPOKL92xe3rC0rZEIbYhBrtnvvG9NRZLcocTUr2d0	.doubleclick.net	/	2020-06-25T00:00:02.370Z	123	?	?	None	Medium	
+1P_JAR	2020-06-10-18	.gstatic.com	/	2020-07-10T18:33:21.585Z	19		?	None	Medium	
+1P_JAR	2020-6-11-18	.google.com	/	2020-07-11T18:18:23.000Z	18		?		Medium	
+__Secure-HSID	Aak7VKJ2eHgrbF15k	.google.com	/	2020-08-01T07:00:00.521Z	30	?	?	None	High	
+__Secure-SSID	Ai1x7JJWL-dfoIBFH	.google.com	/	2020-08-01T07:00:00.521Z	30	?	?	None	High	
+__Secure-APISID	Du57RBne4VNBtevg/AeABPwkg7YDmWM9LY	.google.com	/	2020-08-01T07:00:00.521Z	49		?	None	High	
+_gcl_au	1.1.987088167.1591776153	.jazz.com.pk	/	2020-09-08T08:02:33.000Z	31				Medium	
+fr	0ND0TTXlTDLZQM1G0..Be4JOv...1.0.Be4JOv.	.facebook.com	/	2020-09-08T08:02:56.098Z	41	?	?	None	Medium	
+_fbp	fb.2.1591776172121.660284067	.jazz.com.pk	/	2020-09-09T18:21:10.000Z	32			Lax	Medium	
+SEARCH_SAMESITE	CgQI948B	.google.com	/	2020-12-07T20:42:51.108Z	23			Strict	Medium	
+NID	204=bL3oBGJ3ghCS-lUf0fnCXqFqGSM6yFY2PMk8dFAwYQx63rUKSmz1AbA4BNh6c3SQ8-a86yvrt4FHfRZ-7vELpGB6GFi4MvUhmJIW7iooOr0yNnmLwulcs6LuWLGn8ox7SKNcoVVVJgUgBfYdL9DazVVJjrZ-G6VlcEMEI2CJq1Y2oDrXYH14l-moEwxkp7oAfIO5IBsWEga1wmFWBwLEGSNYW9zAEbFmePY2l6vSXyndvVPo70AntDDttfahw3U	.google.com	/	2020-12-11T17:44:37.150Z	262	?	?	None	Medium	
+SIDCC	AJi4QfHXVGlfD6rLoRIfV6jkwGkNRyjESCUrkd9j5WrSSJ93EkRODaw9VPDeq8_Mq3YV4eE3ZRY	.google.com	/	2021-06-11T18:21:10.344Z	80				High	
+exp_last_visit	1591814316	.jazz.com.pk	/	2021-06-11T18:21:14.422Z	24	?	?		Medium	
+exp_last_activity	1591899669	.jazz.com.pk	/	2021-06-11T18:21:14.422Z	27	?	?		Medium	
+AID	AJHaeXL7BzBp6cbVDSeVCXiOrEhxtagZ71-rRtXkl7oaiUq1uWaY	.googleadservices.com	/	2021-12-01T00:00:01.983Z	55	?			Medium	
+AID	AJHaeXL7BzBp6cbVDSeVCXiOrEhxtagZ71-rRtXkl7oaiUq1uWaY	.google.com	/ads	2021-12-01T08:00:01.647Z	55	?	?	None	Medium	
+IDE	AHWqTUmi28upAuewR0IEKySjg8fjOKjxs9EdUR9wNNNzRG1gQqwr8hPzr42Go_v5	.doubleclick.net	/	2022-06-08T21:00:00.795Z	67	?	?	None	Medium	
+SID	xwf4b-TutAh7EkNqOqD2ua3k-vUfWBxOF07_pbN4LYvea93iAkIgy2SdnBUmP2eRViWO0g.	.google.com	/	2022-06-09T15:37:09.521Z	74				High	
+__Secure-3PSID	xwf4b-TutAh7EkNqOqD2ua3k-vUfWBxOF07_pbN4LYvea93iSgmL3j_ksti0MyxxhovYQA.	.google.com	/	2022-06-09T15:37:09.521Z	85	?	?	None	High	
+HSID	Aak7VKJ2eHgrbF15k	.google.com	/	2022-06-09T15:37:09.521Z	21	?			High	
+SSID	Ai1x7JJWL-dfoIBFH	.google.com	/	2022-06-09T15:37:09.521Z	21	?	?		High	
+APISID	Du57RBne4VNBtevg/AeABPwkg7YDmWM9LY	.google.com	/	2022-06-09T15:37:09.521Z	40				High	
+SAPISID	sMa35WMJ3VQnlrgp/Aj4rC-INajI0R97V0	.google.com	/	2022-06-09T15:37:09.521Z	41		?		High	
+__Secure-3PAPISID	sMa35WMJ3VQnlrgp/Aj4rC-INajI0R97V0	.google.com	/	2022-06-09T15:37:09.522Z	51		?	None	High	
+ANID	AHWqTUkbb-Y80wpkLOvwJIb7g4LILz5gUdTrloc6kbAHkru3K0Eg3ELAdOWoudoj	.google.com	/	2022-06-09T15:37:13.966Z	68	?	?	None	Medium	
+_ga	GA1.3.17005526.1591776154
